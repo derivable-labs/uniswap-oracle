@@ -19,7 +19,6 @@
 		"@keydonix/uniswap-oracle-sdk": "file:../sdk",
 		"@zoltu/typescript-transformer-append-js-extension": "1.0.1",
 		"ts-node": "8.10.2",
-		"ttypescript": "1.5.10",
 		"typescript": "3.9.3"
 	},
 	"scripts": {
